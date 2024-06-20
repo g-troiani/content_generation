@@ -16,12 +16,16 @@ The user has specified the topic: {User_Topic}. Your task is to identify the mos
 
 Here are the steps to follow:
 
-1. Understand the main topic and its broad applications.
-2. Identify the key components and sub-topics that are essential for a comprehensive understanding.
-3. Create a structured lesson plan that logically progresses through these components.
-4. Ensure that each component is explained in a way that is accessible and interesting to a non-expert audience.
+1. Analyze the main topic and consider its broad applications and relevance. Write your analysis in this section.
+2. Identify the key components and sub-topics that are essential for a comprehensive understanding of the main topic. List these components, with each component on a new line.
+3. Create a structured lesson plan that logically progresses through the key components you identified. For each component, provide the following:
+   a. A brief explanation of the component.
+   b. Ideas for making the explanation engaging and accessible to a non-expert audience.
+4. Review your lesson plan and ensure that each component is explained in a way that is informative, interesting, and suitable for a broad audience. Write your review in this section.
 
 Output the final lesson plan in a structured format with clear headings for each main component.
+
+Remember, your goal is to create a lesson plan that effectively educates an audience unfamiliar with the subject, so prioritize clarity, engagement, and logical progression throughout the lesson.
     """}
   ]
 )

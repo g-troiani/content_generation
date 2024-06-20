@@ -38,6 +38,68 @@ Here are the steps to follow for each part:
    - Provide a third example, application, or interesting application overview around 140 words that gives yet another practical or real-world example of the sub-topic.
 
 Output the final detailed script in a structured format, ensuring each part is engaging, informative, and suitable for a broad audience on social media platforms.
+
+Here are the references for each of the variables (except subject) for creating educational short-form text content for TikTok and Instagram:
+{{ACTION}}
+Reference: Use action verbs that describe how the subject is teaching or explaining the concept. Examples include:
+
+breaks down
+simplifies
+illustrates
+demonstrates
+explains
+
+{{CONCEPT}}
+Reference: Specify the educational concept or topic being explained in the text. Examples include:
+
+photosynthesis
+the water cycle
+the Pythagorean theorem
+the American Revolution
+the basics of coding
+
+{{WRITING_STYLE}}
+Reference: Specify the desired writing style for the educational content. Examples include:
+
+conversational
+witty
+straightforward
+engaging
+humorous
+
+{{EDUCATIONAL_TECHNIQUES}}
+Reference: Mention specific educational techniques or strategies to be used in the text. Examples include:
+
+analogies
+examples
+step-by-step instructions
+real-world applications
+mnemonic devices
+
+{{CONTENT_STYLE}}
+Reference: Mention specific content styles or inspirations to be used in the text. Examples include:
+
+storytelling
+Informative
+comparison and contrast
+problem and solution
+
+{{EXCLUSIONS}}
+Reference: List elements that should be excluded or avoided in the educational content. Examples include:
+
+complex scientific jargon
+lengthy explanations
+confusing terminology
+irrelevant tangents
+controversial opinions
+
+{{VERSION}}
+Reference: Specify whether the content is intended for TikTok or Instagram. Examples include:
+
+TikTok
+Instagram
+
+These references provide guidance and examples for each variable to help create effective and engaging educational short-form text content tailored for TikTok and Instagram.
     """}
   ]
 )
